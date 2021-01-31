@@ -13,3 +13,5 @@ require (
 	google.golang.org/grpc v1.24.0
 	gopkg.in/macaroon.v2 v2.1.0
 )
+
+replace github.com/lightningnetwork/lnd => github.com/guggero/lnd v0.11.0-beta.rc4.0.20210314203944-0b78c8f65fd7

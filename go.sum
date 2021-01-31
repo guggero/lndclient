@@ -124,6 +124,8 @@ github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 h1:Ovs26xHkKqVztRpIrF/92Bcuy
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 github.com/grpc-ecosystem/grpc-gateway v1.14.3 h1:OCJlWkOUoTnl0neNGlf4fUm3TmbEtguw7vR+nGtnDjY=
 github.com/grpc-ecosystem/grpc-gateway v1.14.3/go.mod h1:6CwZWGDSPRJidgKAtJVvND6soZe6fT7iteq8wDPdhb0=
+github.com/guggero/lnd v0.11.0-beta.rc4.0.20210314203944-0b78c8f65fd7 h1:UTk24EiKrSsB/KSpG8Wwyfeg1vBIVPX17BQFgImKps0=
+github.com/guggero/lnd v0.11.0-beta.rc4.0.20210314203944-0b78c8f65fd7/go.mod h1:2GyP1IG1kXV5Af/LOCxnXfux1OP3fAGr8zptS5PB2YI=
 github.com/hpcloud/tail v1.0.0 h1:nfCOvKYfkgYP8hkirhJocXT2+zOD8yUNjXaWfTlyFKI=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/jackpal/gateway v1.0.5/go.mod h1:lTpwd4ACLXmpyiCTRtfiNyVnUmqT9RivzCDQetPfnjA=
@@ -172,8 +174,6 @@ github.com/lightninglabs/neutrino v0.11.1-0.20201210023533-e1978372d15e/go.mod h
 github.com/lightninglabs/protobuf-hex-display v1.3.3-0.20191212020323-b444784ce75d/go.mod h1:KDb67YMzoh4eudnzClmvs2FbiLG9vxISmLApUkCa4uI=
 github.com/lightningnetwork/lightning-onion v1.0.2-0.20200501022730-3c8c8d0b89ea h1:oCj48NQ8u7Vz+MmzHqt0db6mxcFZo3Ho7M5gCJauY/k=
 github.com/lightningnetwork/lightning-onion v1.0.2-0.20200501022730-3c8c8d0b89ea/go.mod h1:rigfi6Af/KqsF7Za0hOgcyq2PNH4AN70AaMRxcJkff4=
-github.com/lightningnetwork/lnd v0.12.0-beta.rc6 h1:LtIt2vtNZ/lfhapeSGXST+MLZIeIDrhnOFrJ2BwLIRw=
-github.com/lightningnetwork/lnd v0.12.0-beta.rc6/go.mod h1:2GyP1IG1kXV5Af/LOCxnXfux1OP3fAGr8zptS5PB2YI=
 github.com/lightningnetwork/lnd/cert v1.0.3/go.mod h1:3MWXVLLPI0Mg0XETm9fT4N9Vyy/8qQLmaM5589bEggM=
 github.com/lightningnetwork/lnd/clock v1.0.1 h1:QQod8+m3KgqHdvVMV+2DRNNZS1GRFir8mHZYA+Z2hFo=
 github.com/lightningnetwork/lnd/clock v1.0.1/go.mod h1:KnQudQ6w0IAMZi1SgvecLZQZ43ra2vpDNj7H/aasemg=
