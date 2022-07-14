@@ -145,3 +145,5 @@ require (
 )
 
 go 1.17
+
+replace github.com/lightningnetwork/lnd => github.com/guggero/lnd v0.11.0-beta.rc4.0.20220728145415-8b62d1201bb7
